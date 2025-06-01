@@ -1,0 +1,5 @@
+# Ignorar los cambios en:
+
+.venv
+
+data
